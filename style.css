@@ -1,6 +1,6 @@
 .list-group-item.active-personalizado{
-    border-color: red;
-    background-color: red;
+    border-color: #dc3545   ;
+    background-color: #dc3545;
     color: white;
 }
 footer .list-group-item.active-personalizado{
