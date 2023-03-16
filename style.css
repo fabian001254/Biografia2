@@ -1,0 +1,12 @@
+.list-group-item.active-personalizado{
+    border-color: red;
+    background-color: red;
+    color: white;
+}
+footer .list-group-item.active-personalizado{
+    background-color: #0dcaf0;
+    border: #0dcaf0 ;
+}
+p,h1,a,li,h2,h3,h4,h5,h6{
+    font-family: 'Josefin Sans', sans-serif;
+}
